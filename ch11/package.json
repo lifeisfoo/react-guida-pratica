@@ -8,7 +8,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-modal": "^3.16.1",
-    "react-scripts": "4.0.3"
+    "react-scripts": "5.0.1"
   },
   "proxy": "http://localhost:4000",
   "scripts": {
