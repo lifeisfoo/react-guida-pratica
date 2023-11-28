@@ -82,6 +82,8 @@ export default function App() {
     tmpTodos.splice(todoIdx, 1);
     setTodos(tmpTodos);
 
+    setAllTodos(allTodos.filter((t) => t.id !== id));
+
     addToListCount(listIdx, todo.done ? 0 : -1);
   };
 
