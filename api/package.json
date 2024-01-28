@@ -6,6 +6,9 @@
   "bin": {
     "example-todo-api": "./api.js"
   },
+  "scripts": {
+    "start": "node api.js"
+  },
   "author": "Alessandro Miliucci",
   "license": "ISC",
   "dependencies": {
