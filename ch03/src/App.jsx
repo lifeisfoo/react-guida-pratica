@@ -2,7 +2,7 @@ function AppTitle() {
   return <h1>Todo app</h1>;
 }
 
-const defaultImage = "https://via.placeholder.com/32x32.png";
+const defaultImage = "https://placehold.co/32x32.png";
 
 function getImageOrDefaultURL(imageUrl) {
   try {

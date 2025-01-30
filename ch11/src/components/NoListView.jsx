@@ -1,4 +1,4 @@
-import { ReactComponent as InfoIcon } from "bootstrap-icons/icons/info.svg";
+import InfoIcon from "bootstrap-icons/icons/info.svg?react";
 
 const iconSize = "100px";
 

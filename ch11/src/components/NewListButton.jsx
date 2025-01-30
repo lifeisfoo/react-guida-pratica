@@ -1,4 +1,4 @@
-import { ReactComponent as PlusIcon } from "bootstrap-icons/icons/plus.svg";
+import PlusIcon from "bootstrap-icons/icons/plus.svg?react";
 
 export function NewListButton({ onCreateList }) {
   return (

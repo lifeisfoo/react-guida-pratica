@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { ReactComponent as PlusLargeIcon } from "bootstrap-icons/icons/plus-lg.svg";
+import PlusLargeIcon from "bootstrap-icons/icons/plus-lg.svg?react";
 
 export default function TodoCreator({ onCreate }) {
   const [text, setText] = useState("");

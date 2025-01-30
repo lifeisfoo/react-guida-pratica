@@ -1,4 +1,4 @@
-import { ReactComponent as TrashIcon } from "bootstrap-icons/icons/trash.svg";
+import TrashIcon from "bootstrap-icons/icons/trash.svg?react";
 
 export default function DeleteButton({ onClick }) {
   return (

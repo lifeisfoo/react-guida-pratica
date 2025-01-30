@@ -1,4 +1,4 @@
-import { ReactComponent as TrashIcon } from "bootstrap-icons/icons/trash.svg";
+import TrashIcon from "bootstrap-icons/icons/trash.svg?react";
 
 const todoClasses =
   "d-flex align-items-center list-group-item my-1 border rounded-1";

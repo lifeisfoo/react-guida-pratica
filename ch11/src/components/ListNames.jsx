@@ -1,4 +1,4 @@
-import { ReactComponent as ListIcon } from "bootstrap-icons/icons/list-ul.svg";
+import ListIcon from "bootstrap-icons/icons/list-ul.svg?react";
 
 const navLinkStyle = { cursor: "pointer" };
 
