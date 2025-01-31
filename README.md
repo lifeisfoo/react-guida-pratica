@@ -6,6 +6,13 @@ Questo è il repository di <a href="https://react-guida-pratica.it">React, guida
 
 **Una guida passo passo per scoprire e imparare React sviluppando un'applicazione da zero**.
 
+> [!NOTE]  
+> :bulb: :bulb: :bulb: :bulb: :bulb:<br/>
+> Questo branch contiene il codice aggiornato a **REACT 19** e _Vite 6_ (2025).
+> Per conoscere tutti i dettagli su questo aggiornamento leggere [la pagina con le spiegazioni](https://github.com/lifeisfoo/react-guida-pratica/discussions/22).
+> Potete accedere al codice originale (React 18) nel branch `master` (CRA) o `vite` (Vite).<br/>
+> :bulb: :bulb: :bulb: :bulb: :bulb:
+
 ### [🔗 Sito ufficiale](https://react-guida-pratica.it)
 
 ### [🐞 Errata](https://github.com/lifeisfoo/react-guida-pratica/discussions/categories/errori-e-refusi)
